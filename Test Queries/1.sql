@@ -1,0 +1,1 @@
+select * from PATIENT where CITY like('Colombo');

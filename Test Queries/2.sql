@@ -1,0 +1,1 @@
+select * from DOCTOR where LAST_NAME='Silva' and GENDER='M'

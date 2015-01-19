@@ -1,0 +1,1 @@
+select * from APPOINTMENT where APPOINTMENT_DATE=convert(date,GETDATE())

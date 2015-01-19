@@ -1,0 +1,1 @@
+select WARD, count(NURSE_ID) as NURSES  from NURSE group by WARD;

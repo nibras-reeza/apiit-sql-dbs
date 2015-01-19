@@ -1,0 +1,4 @@
+insert into PATIENT
+	(PATIENT_ID, FIRST_NAME, LAST_NAME, GENDER, AGE, DATE_OF_BIRTH, STREET_ADDRESS_1, CITY,
+					HOME_PHONE, MOBILE_PHONE)
+	values('PT00000025','Mary','White','F','17','12-24-1997','R Engenheiro Duarte Pacheco 27','Rajagiriya','53 210 17 39','21 272 460 4539');
